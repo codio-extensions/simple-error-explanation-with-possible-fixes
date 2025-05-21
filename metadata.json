@@ -1,5 +1,5 @@
 {
-  "name": "Custom Assistant Example",
+  "name": "Error Explanation with fixes",
   "type": "helper",
   "properties": {
     "user_type": "all", 
